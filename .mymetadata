@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="windowPro"
+  id="myeclipse.1538902823769"
+  context-root="/windowPro"
+  j2ee-spec="6.0"
+  archive="windowPro.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
